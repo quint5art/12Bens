@@ -1,0 +1,13 @@
+{
+  "id" : "https://quint5art.github.io/12Bens/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in quint5art/12Bens project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://quint5art.github.io/12Bens/manifests/manifestQGIIIF.json",
+    "label" : "A few of Quint's favorite places"
+  } ]
+}

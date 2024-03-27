@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://quint5art.github.io/12Bens/annotations/c1d2e4e13bfdd5c364a91aa0fbaf901b.json" ],
+  "@id" : "https://quint5art.github.io/12Bens/annotations/collection.json",
+  "label" : "All annotations loaded in quint5art/12Bens project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

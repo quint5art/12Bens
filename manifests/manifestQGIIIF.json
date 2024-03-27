@@ -32,12 +32,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archive.org/image/iiif/3/Connemara%2fConnemara.ptif/full/full/0/default.jpg",
+          "@id" : "https://iiif.archive.org/image/iiif/2/Connemara%2fConnemara.ptif/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "@id" : "https://iiif.archive.org/image/iiif/3/Connemara%2fConnemara.ptif",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/Connemara%2fConnemara.ptif",
             "profile" : "level2"
           },
           "height" : 1200,
@@ -59,12 +59,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archive.org/image/iiif/3/portofino_20240321%2fPortofino.ptif/full/full/0/default.jpg",
+          "@id" : "https://iiif.archive.org/image/iiif/2/portofino_20240321%2fPortofino.ptif/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "@id" : "https://iiif.archive.org/image/iiif/3/portofino_20240321%2fPortofino.ptif",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/portofino_20240321%2fPortofino.ptif",
             "profile" : "level2"
           },
           "height" : 6210,
@@ -86,12 +86,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archive.org/image/iiif/3/torino_20240323%2fTorino.ptif/full/full/0/default.jpg",
+          "@id" : "https://iiif.archive.org/image/iiif/2/torino_20240323%2fTorino.ptif/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "@id" : "https://iiif.archive.org/image/iiif/3/torino_20240323%2fTorino.ptif",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/torino_20240323%2fTorino.ptif",
             "profile" : "level2"
           },
           "height" : 1372,
@@ -113,12 +113,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archive.org/image/iiif/3/yellow-mounds-badlands_202403%2fBadlands.ptif/full/full/0/default.jpg",
+          "@id" : "https://iiif.archive.org/image/iiif/2/yellow-mounds-badlands_202403%2fBadlands.ptif/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "@id" : "https://iiif.archive.org/image/iiif/3/yellow-mounds-badlands_202403%2fBadlands.ptif",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/yellow-mounds-badlands_202403%2fBadlands.ptif",
             "profile" : "level2"
           },
           "height" : 4611,
@@ -140,12 +140,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archive.org/image/iiif/3/Positano%2fPositano.ptif/full/full/0/default.jpg",
+          "@id" : "https://iiif.archive.org/image/iiif/2/Positano%2fPositano.ptif/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "@id" : "https://iiif.archive.org/image/iiif/3/Positano%2fPositano.ptif",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/Positano%2fPositano.ptif",
             "profile" : "level2"
           },
           "height" : 3136,
